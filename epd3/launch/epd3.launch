@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="epd3" type="controlGoalParameterServer.py" name="control" output="screen">
+        <rosparam file="$(find epd3)/config/path.yml" />
+    </node>
+</launch>
