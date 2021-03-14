@@ -26,4 +26,4 @@ Nuestro programa por defecto carga dos puntos que están definidos en el fichero
 + EPD 2
   <br>No tuvimos ningún problema al realizar esta epd.
 + EPD 3
-  <br>La única dificultad reseñable fue sacar que funcionase el suscriptor del camino. Hasta que no aclaró el profesor cómo podíamos hacerlo no supimos el modo de resolverlo.
+  <br>La única dificultad reseñable fue conseguir que funcionase el suscriptor del camino. Hasta que no aclaró el profesor cómo podíamos hacerlo no supimos el modo de resolverlo.
